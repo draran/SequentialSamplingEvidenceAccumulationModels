@@ -71,3 +71,7 @@ p.quad(top = histB, bottom = 0, left = edgesB[:-1], right = edgesB[1:],
 
 output_notebook()
 show(p)
+
+# TODO add plotting function to plot individual time traces
+# TODO add independent accumulators
+# TODO add definition of variables / variable names
